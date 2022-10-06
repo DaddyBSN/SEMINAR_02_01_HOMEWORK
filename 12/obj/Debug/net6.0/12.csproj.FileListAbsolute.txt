@@ -1,0 +1,15 @@
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\Seminar_02_01_homework\12\bin\Debug\net6.0\12.exe
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\Seminar_02_01_homework\12\bin\Debug\net6.0\12.deps.json
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\Seminar_02_01_homework\12\bin\Debug\net6.0\12.runtimeconfig.json
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\Seminar_02_01_homework\12\bin\Debug\net6.0\12.dll
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\Seminar_02_01_homework\12\bin\Debug\net6.0\12.pdb
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\Seminar_02_01_homework\12\obj\Debug\net6.0\12.csproj.AssemblyReference.cache
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\Seminar_02_01_homework\12\obj\Debug\net6.0\12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\Seminar_02_01_homework\12\obj\Debug\net6.0\12.AssemblyInfoInputs.cache
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\Seminar_02_01_homework\12\obj\Debug\net6.0\12.AssemblyInfo.cs
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\Seminar_02_01_homework\12\obj\Debug\net6.0\12.csproj.CoreCompileInputs.cache
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\Seminar_02_01_homework\12\obj\Debug\net6.0\12.dll
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\Seminar_02_01_homework\12\obj\Debug\net6.0\refint\12.dll
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\Seminar_02_01_homework\12\obj\Debug\net6.0\12.pdb
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\Seminar_02_01_homework\12\obj\Debug\net6.0\12.genruntimeconfig.cache
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\Seminar_02_01_homework\12\obj\Debug\net6.0\ref\12.dll
